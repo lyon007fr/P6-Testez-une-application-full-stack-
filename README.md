@@ -1,3 +1,14 @@
+<h3>Installation du projet</h3>
+Prérequis :
+- JDK
+- Maven
+
+Cloner le repository puis installer les dépendances du back end en se positionnant dans le dossier back et exécuter la commande mvn clean install.
+Se rendre dans le dossier front et installer les dépendances en utilisant la commande : npm install.
+
+---
+
+
 <h3>BACK</h3>
 
 Pour lancer les tests back, se positionner dans le dossier "back" du projet puis utiliser la commande "mvn test clean".
